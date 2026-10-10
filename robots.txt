@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hanny783.github.io/My-Portfolio/sitemap.xml
